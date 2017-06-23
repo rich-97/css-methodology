@@ -1,0 +1,28 @@
+{
+  "name": "css-methodology",
+  "authors": [
+    "rich <morenoricardo237@gmail.com>"
+  ],
+  "description": "A methodology for write css scalable and maintanable",
+  "main": "main.scss",
+  "keywords": [
+    "css",
+    "itcss",
+    "BEM",
+    "OOCSS",
+    "scss"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./tools",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mixins.scss": "*"
+  }
+}
